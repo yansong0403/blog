@@ -1,0 +1,7 @@
+游戏设计模式
+===========================
+
+.. toctree::
+   :maxdepth: 2
+
+   commandpattern
